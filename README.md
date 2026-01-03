@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Atunde! 👋</h1>
+<h1 align="center">Hi, I'm 0xDfinity! 👋</h1>
 <h3 align="center">A Full-Stack developer</h3>
 
 - 🌱 active learner
