@@ -19,11 +19,10 @@
 ---
 
 ### 📫 How to reach me:
-- **official.atundess@gmail.com**
+- **o**
 
 ### 🤝 Connect with me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/atunde_ss/" target="_blank">
+<p a
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   
