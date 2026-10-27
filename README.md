@@ -1,76 +1,59 @@
-<h1 align="center">Hi, I'm 0xDfinity! 👋</h1>
-<h3 align="center">A Full-Stack developer</h3>
-
-- 🌱 active learner
-- 💞️ Love revolutionary projects & Love to work with cool stuffs
+<h1 align="center">0xDfinity</h1>
+<h3 align="center">On-chain guardrails and AI x crypto infrastructure</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=FullStack+Dev+%7C+Project+Manager+%7C+Automation+Wizard;Dev+Rel+%F0%9F%94%96;Automating+Things+That+Don't+Need+Automation+%E2%9C%A8;Vibe+Coding+%F0%9F%98%86" alt="Typing SVG" />
+  I build the safety layer between autonomous AI agents and real money.<br/>
+  Currently building Leash on NEAR. First-time devops builder, shipping production infrastructure end to end.
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</div>
-
 <p align="center">
-  <a href="https://github.com/Atunde-SS"><img src="https://komarev.com/ghpvc/?username=widiskel&style=for-the-badge&abbreviated=true&color=blue" alt="Profile views"/></a>
+  <a href="https://github.com/0xdfinity/Leash"><img src="https://img.shields.io/badge/Flagship-Leash-111111?style=for-the-badge" alt="Leash"/></a>
+  <a href="https://leash-frontend.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-leash--frontend-0A0A0A?style=for-the-badge" alt="Live demo"/></a>
+  <a href="https://x.com/0xdfinity"><img src="https://img.shields.io/badge/X-0xdfinity-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
 ---
 
-### 📫 How to reach me:
-- **o**
+## Flagship: Leash
 
-### 🤝 Connect with me:
-<p a
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  
+Leash is on-chain spending guardrails for autonomous AI agents on NEAR. An agent gets a key that can only spend inside limits the owner set on-chain, so a misbehaving or compromised agent cannot drain the wallet.
 
-  
-  <a href="https://x.com/0xdfinity" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter"/>
-  </a>
-</p>
-
-### 💻 Languages and Tools:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,dart,flutter,kotlin,firebase,css,html,java,jquery,laravel,mysql,postgres,mongodb,sqlite,nodejs,ts,vue,react,nextjs,rust,solidity,tensorflow,opencv,php,tailwind,postman,spring," />
-  </a>
-</p>
-
-# 📊 GitHub Stats:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Welcome+to+my+GitHub!;Building+in+progress...;Decrypting+secrets...;Booting+Atunde's+system...)](https://git.io/typing-svg)  
-[![Atunde's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atunde-SS&bg_color=000000&color=ffcc00&line=ff5733&point=ffffff&area=true&hide_border=true&custom_title=🚀%20Atunde's%20Coding%20Journey)](https://github.com/Atunde-SS)
-
-![](https://github-readme-stats.vercel.app/api?username=Atunde-SS&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=Atunde-SS&theme=tokyonight&hide_border=false)
+- Live on NEAR testnet: contract `leash-0445ff.testnet`
+- Enforced caps: 4 NEAR per transaction, 8 NEAR per day, agent key scoped to spending only
+- Written in Rust on near-sdk 5.5, with an 11-test suite
+- Frontend: https://leash-frontend.vercel.app
+- Source: https://github.com/0xdfinity/Leash
 
 ---
 
-<h2 align="center">📊 Most Used Languages</h2>
+## What I work on
 
-<p align="center">
-  <a href="https://github.com/Atunde-SS">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atunde-SS&theme=highcontrast&layout=compact&hide_border=true&border_radius=10&background=0D1117&title_color=FFA500&text_color=FFFFFF" alt="Top Languages" width="50%"/>
-  </a>
-</p>
-
-![snake gif](https://github.com/Atunde-SS/Atunde-SS/blob/output/github-snake-dark.svg)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Atunde-SS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Atunde-SS&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- On-chain policy and spending controls for AI agents
+- Smart contracts and the frontends that drive them
+- Deploying and shipping projects end to end, including hosting, CI and release
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Atunde-SS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!---
-Atunde-SS/Atunde-SS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+
+- Languages: Rust, Solidity, Go, C++, Python, HTML/CSS
+- Blockchain: NEAR (near-sdk, testnet deployment), EVM / Solidity
+- Infrastructure: Git, GitHub, Vercel deployments, Linux, shell tooling
+- Focus areas: smart contract security, agent spending policy, AI x crypto tooling
+
+---
+
+## Work with me
+
+Open to building on-chain guardrails, agent infrastructure, and smart contract work.
+Reach me on X at https://x.com/0xdfinity or open an issue on https://github.com/0xdfinity/Leash.
+
+---
+
+<p align="center">
+  <a href="https://github.com/0xdfinity"><img src="https://github-readme-stats.vercel.app/api?username=0xdfinity&theme=transparent&hide_border=true&show_icons=true&count_private=true" alt="GitHub stats"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/0xdfinity"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdfinity&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/></a>
+</p>
