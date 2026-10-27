@@ -7,22 +7,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/0xdfinity/Leash"><img src="https://img.shields.io/badge/Flagship-Leash-111111?style=for-the-badge" alt="Leash"/></a>
-  <a href="https://leash-frontend.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-leash--frontend-0A0A0A?style=for-the-badge" alt="Live demo"/></a>
   <a href="https://x.com/0xdfinity"><img src="https://img.shields.io/badge/X-0xdfinity-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
 ---
 
-## Flagship: Leash
+## Latest commits
 
-Leash is on-chain spending guardrails for autonomous AI agents on NEAR. An agent gets a key that can only spend inside limits the owner set on-chain, so a misbehaving or compromised agent cannot drain the wallet.
-
-- Live on NEAR testnet: contract `leash-0445ff.testnet`
-- Enforced on-chain: per-transaction and daily spending caps, agent key scoped to spending only
-- Written in Rust on near-sdk 5.5, with an 11-test suite
-- Frontend: https://leash-frontend.vercel.app
-- Source: https://github.com/0xdfinity/Leash
+<!--START_SECTION:latest-commits-->
+- [0xdomina/howspanda](https://github.com/0xdomina/howspanda): fix(media): 7d presign max : SigV4 throws above 604800s (broke /media) ([5deb424](https://github.com/0xdomina/howspanda/commit/5deb424544c318511d3a786f79bf2c6d0813e6e0), 2026-09-04)
+- [0xdfinity/SignalArc](https://github.com/0xdfinity/SignalArc): Add terminal proof run ([b20e2ff](https://github.com/0xdfinity/SignalArc/commit/b20e2ffa582d2695400b690b81575274569c9537), 2026-05-26)
+- [0xdfinity/fhevm-agent-skill](https://github.com/0xdfinity/fhevm-agent-skill): Reorganize as plugin-style FHEVM skills ([dfe6126](https://github.com/0xdfinity/fhevm-agent-skill/commit/dfe61267c00ad40cf422ab45e0eb0e12a456d632), 2026-05-11)
+<!--END_SECTION:latest-commits-->
 
 ---
 
