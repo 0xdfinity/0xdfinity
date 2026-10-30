@@ -15,9 +15,9 @@
 ## Latest commits
 
 <!--START_SECTION:latest-commits-->
+- [nimiq/miniappscompetition-submissions](https://github.com/nimiq/miniappscompetition-submissions): Add submission: Nimiqme ([9f30366](https://github.com/nimiq/miniappscompetition-submissions/commit/9f30366ed06c5b4e9adabcde81643b927b5efc1c), 2026-10-30)
 - [0xdfinity/slowcord](https://github.com/0xdfinity/slowcord): feat: add Slowcord, a lazy Telegram digest bridge over TediCross ([c201d55](https://github.com/0xdfinity/slowcord/commit/c201d5584876332345d3e37a2a47ceaa4ba0b597), 2026-10-27)
 - [0xdomina/howspanda](https://github.com/0xdomina/howspanda): fix(media): 7d presign max : SigV4 throws above 604800s (broke /media) ([5deb424](https://github.com/0xdomina/howspanda/commit/5deb424544c318511d3a786f79bf2c6d0813e6e0), 2026-09-04)
-- [0xdfinity/SignalArc](https://github.com/0xdfinity/SignalArc): Add terminal proof run ([b20e2ff](https://github.com/0xdfinity/SignalArc/commit/b20e2ffa582d2695400b690b81575274569c9537), 2026-05-26)
 <!--END_SECTION:latest-commits-->
 
 ---
