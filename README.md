@@ -15,9 +15,9 @@
 ## Latest commits
 
 <!--START_SECTION:latest-commits-->
+- [0xdfinity/corridorproof](https://github.com/0xdfinity/corridorproof): Wire Loops Attribution Tag ([66ceb18](https://github.com/0xdfinity/corridorproof/commit/66ceb18bbfc57f5c45de06e77c1dbee26d8cbfa9), 2026-10-31)
+- [0xdfinity/gremlin](https://github.com/0xdfinity/gremlin): Build Streak Gremlin Ritual Prototype ([daa6ce8](https://github.com/0xdfinity/gremlin/commit/daa6ce875fd34e30762f15daf45ec1197a8276bc), 2026-10-31)
 - [nimiq/miniappscompetition-submissions](https://github.com/nimiq/miniappscompetition-submissions): Add submission: Nimiqme ([9f30366](https://github.com/nimiq/miniappscompetition-submissions/commit/9f30366ed06c5b4e9adabcde81643b927b5efc1c), 2026-10-30)
-- [0xdfinity/slowcord](https://github.com/0xdfinity/slowcord): feat: add Slowcord, a lazy Telegram digest bridge over TediCross ([c201d55](https://github.com/0xdfinity/slowcord/commit/c201d5584876332345d3e37a2a47ceaa4ba0b597), 2026-10-27)
-- [0xdomina/howspanda](https://github.com/0xdomina/howspanda): fix(media): 7d presign max : SigV4 throws above 604800s (broke /media) ([5deb424](https://github.com/0xdomina/howspanda/commit/5deb424544c318511d3a786f79bf2c6d0813e6e0), 2026-09-04)
 <!--END_SECTION:latest-commits-->
 
 ---
