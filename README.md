@@ -15,7 +15,7 @@
 ## Latest commits
 
 <!--START_SECTION:latest-commits-->
-- [0xdfinity/corridorproof](https://github.com/0xdfinity/corridorproof): Wire Loops Attribution Tag ([66ceb18](https://github.com/0xdfinity/corridorproof/commit/66ceb18bbfc57f5c45de06e77c1dbee26d8cbfa9), 2026-10-31)
+- [0xdfinity/corridorproof](https://github.com/0xdfinity/corridorproof): fix: close the settlement holes and ship a usable corridor desk ([19999d5](https://github.com/0xdfinity/corridorproof/commit/19999d52d9a7b32972f59ddead7d6af570b043a5), 2026-11-09)
 - [0xdfinity/gremlin](https://github.com/0xdfinity/gremlin): Build Streak Gremlin Ritual Prototype ([daa6ce8](https://github.com/0xdfinity/gremlin/commit/daa6ce875fd34e30762f15daf45ec1197a8276bc), 2026-10-31)
 - [nimiq/miniappscompetition-submissions](https://github.com/nimiq/miniappscompetition-submissions): Add submission: Nimiqme ([9f30366](https://github.com/nimiq/miniappscompetition-submissions/commit/9f30366ed06c5b4e9adabcde81643b927b5efc1c), 2026-10-30)
 <!--END_SECTION:latest-commits-->
