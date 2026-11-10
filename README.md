@@ -15,7 +15,7 @@
 ## Latest commits
 
 <!--START_SECTION:latest-commits-->
-- [0xdfinity/corridorproof](https://github.com/0xdfinity/corridorproof): feat: two-sided pricing desk, chain-observed provenance, and journal metrics ([f8ea8f6](https://github.com/0xdfinity/corridorproof/commit/f8ea8f6aea5fea7b10481e0e32fb423c22863180), 2026-11-10)
+- [0xdfinity/corridorproof](https://github.com/0xdfinity/corridorproof): fix: guide the desk so a first-time user knows what to do ([dc56f68](https://github.com/0xdfinity/corridorproof/commit/dc56f68c276045665642e146880f47bfdbcf078d), 2026-11-10)
 - [0xdfinity/gremlin](https://github.com/0xdfinity/gremlin): Build Streak Gremlin Ritual Prototype ([daa6ce8](https://github.com/0xdfinity/gremlin/commit/daa6ce875fd34e30762f15daf45ec1197a8276bc), 2026-10-31)
 - [nimiq/miniappscompetition-submissions](https://github.com/nimiq/miniappscompetition-submissions): Add submission: Nimiqme ([9f30366](https://github.com/nimiq/miniappscompetition-submissions/commit/9f30366ed06c5b4e9adabcde81643b927b5efc1c), 2026-10-30)
 <!--END_SECTION:latest-commits-->
