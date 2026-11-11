@@ -15,9 +15,9 @@
 ## Latest commits
 
 <!--START_SECTION:latest-commits-->
-- [0xdfinity/corridorproof](https://github.com/0xdfinity/corridorproof): copy: plain-language framing for a general visitor ([d53c878](https://github.com/0xdfinity/corridorproof/commit/d53c8780725e0436f057702e293c150e798130fc), 2026-11-10)
-- [0xdfinity/gremlin](https://github.com/0xdfinity/gremlin): Build Streak Gremlin Ritual Prototype ([daa6ce8](https://github.com/0xdfinity/gremlin/commit/daa6ce875fd34e30762f15daf45ec1197a8276bc), 2026-10-31)
-- [nimiq/miniappscompetition-submissions](https://github.com/nimiq/miniappscompetition-submissions): Add submission: Nimiqme ([9f30366](https://github.com/nimiq/miniappscompetition-submissions/commit/9f30366ed06c5b4e9adabcde81643b927b5efc1c), 2026-10-30)
+- [0xdfinity/settlr](https://github.com/0xdfinity/settlr): Lead the landing page with the outcome, not the architecture ([1dc3f10](https://github.com/0xdfinity/settlr/commit/1dc3f106ae73a685d15fb53310385349dcb6ca55), 2026-11-11)
+- [0xdfinity/boss](https://github.com/0xdfinity/boss): Add a waking overlay for cold starts and scrub local-path references from the... ([4e5c1bc](https://github.com/0xdfinity/boss/commit/4e5c1bcab942bf20365b5c708ed54e17f152ec98), 2026-11-11)
+- [0xdfinity/Portfolio](https://github.com/0xdfinity/Portfolio): Rebuild portfolio daily so it stays current on its own ([e12a488](https://github.com/0xdfinity/Portfolio/commit/e12a4881fba0d21dd2da1b487b2a994aced6bce5), 2026-11-11)
 <!--END_SECTION:latest-commits-->
 
 ---
