@@ -15,8 +15,8 @@
 ## Latest commits
 
 <!--START_SECTION:latest-commits-->
+- [0xdfinity/boss](https://github.com/0xdfinity/boss): Add public-market integration: search real NEAR agents, draft real hires ([16a285d](https://github.com/0xdfinity/boss/commit/16a285d495a45ce0613a631afe6c53f747494e55), 2026-11-12)
 - [0xdomina/macham](https://github.com/0xdomina/macham): docs: point the quick-start clone at the public submission repo ([69076b6](https://github.com/0xdomina/macham/commit/69076b64e5d647584632b1bc1aeb5447bc4cc7b6), 2026-11-11)
-- [0xdfinity/boss](https://github.com/0xdfinity/boss): Swap the wallet path to NEAR&#x27;s official connector (near-connect) with every w... ([e678811](https://github.com/0xdfinity/boss/commit/e67881115ff6dd32622a1ada75ce85086478bdc2), 2026-11-11)
 - [0xdfinity/settlr](https://github.com/0xdfinity/settlr): Settlr 1.0 ([5610cbf](https://github.com/0xdfinity/settlr/commit/5610cbfd61787545a75d6e13d8ddcc316320fc34), 2026-11-11)
 <!--END_SECTION:latest-commits-->
 
