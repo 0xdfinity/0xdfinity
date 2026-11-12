@@ -15,9 +15,9 @@
 ## Latest commits
 
 <!--START_SECTION:latest-commits-->
-- [0xdfinity/settlr](https://github.com/0xdfinity/settlr): Lead the landing page with the outcome, not the architecture ([1dc3f10](https://github.com/0xdfinity/settlr/commit/1dc3f106ae73a685d15fb53310385349dcb6ca55), 2026-11-11)
-- [0xdfinity/boss](https://github.com/0xdfinity/boss): Add a waking overlay for cold starts and scrub local-path references from the... ([4e5c1bc](https://github.com/0xdfinity/boss/commit/4e5c1bcab942bf20365b5c708ed54e17f152ec98), 2026-11-11)
-- [0xdfinity/Portfolio](https://github.com/0xdfinity/Portfolio): Rebuild portfolio daily so it stays current on its own ([e12a488](https://github.com/0xdfinity/Portfolio/commit/e12a4881fba0d21dd2da1b487b2a994aced6bce5), 2026-11-11)
+- [0xdomina/macham](https://github.com/0xdomina/macham): docs: point the quick-start clone at the public submission repo ([69076b6](https://github.com/0xdomina/macham/commit/69076b64e5d647584632b1bc1aeb5447bc4cc7b6), 2026-11-11)
+- [0xdfinity/boss](https://github.com/0xdfinity/boss): Swap the wallet path to NEAR&#x27;s official connector (near-connect) with every w... ([e678811](https://github.com/0xdfinity/boss/commit/e67881115ff6dd32622a1ada75ce85086478bdc2), 2026-11-11)
+- [0xdfinity/settlr](https://github.com/0xdfinity/settlr): Settlr 1.0 ([5610cbf](https://github.com/0xdfinity/settlr/commit/5610cbfd61787545a75d6e13d8ddcc316320fc34), 2026-11-11)
 <!--END_SECTION:latest-commits-->
 
 ---
